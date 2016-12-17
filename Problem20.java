@@ -10,7 +10,7 @@ public class P20 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		
-		JFrame JF=new JFrame("TemparatureConverter");
+		JFrame JF=new JFrame("TemperatureConverter");
 		JF.setSize(350,200);
 		JF.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		JPanel JP=new JPanel(null);
